@@ -353,6 +353,11 @@ class URLInput(Input):
     template_name = "django/forms/widgets/url.html"
 
 
+class SearchInput(Input):
+    input_type = "search"
+    template_name = "django/forms/widgets/search.html"
+
+
 class PasswordInput(Input):
     input_type = "password"
     template_name = "django/forms/widgets/password.html"
