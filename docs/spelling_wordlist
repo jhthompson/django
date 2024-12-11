@@ -99,7 +99,6 @@ cron
 crontab
 cryptographic
 cryptographically
-crs
 csrfmiddlewaretoken
 csv
 ctime
